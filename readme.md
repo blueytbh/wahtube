@@ -1,7 +1,7 @@
 # welcome to wahtube
 credits: 
 
-Wyatt Geckle; Writing all VLC related code, along with a lot of debugging (https://github.com/WGeckle80)
+Wyatt Geckle; Writing all VLC & video format related code, along with a lot of debugging (https://github.com/WGeckle80)
 
 Me; For realizing that i typed 'true' instead of 'True' 80 times in a row (https://github.com/blueytbh)
 
