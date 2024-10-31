@@ -7,7 +7,7 @@ ChatGPT; Getting a base script set up and a lot less debugging
 
 Me; For realizing that i typed 'true' instead of 'True' 80 times in a row (https://github.com/blueytbh)
 
-#yt-dlp
+# yt-dlp
 
 this python script utilizes the yt-dlp module (https://github.com/yt-dlp/yt-dlp)
 
