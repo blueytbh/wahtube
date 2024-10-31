@@ -13,6 +13,6 @@ this python script utilizes the yt-dlp module (https://github.com/yt-dlp/yt-dlp)
 
 # VLC & ffmpeg
 
-this python script requires the holy media player probably made by jesus himself (https://www.videolan.org) 
+this python script requires the holy media player probably made by jesus himself (https://www.videolan.org/vlc/)
 
 and the goofy ass video and audio merger (https://github.com/BtbN/FFmpeg-Builds/releases)
