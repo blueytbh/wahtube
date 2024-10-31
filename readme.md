@@ -3,9 +3,9 @@ credits:
 
 Wyatt Geckle; Writing all VLC related code, along with a lot of debugging (https://github.com/WGeckle80)
 
-ChatGPT; Getting a base script set up and a lot less debugging
-
 Me; For realizing that i typed 'true' instead of 'True' 80 times in a row (https://github.com/blueytbh)
+
+ChatGPT; For setting up a base script for this code
 
 # yt-dlp
 
