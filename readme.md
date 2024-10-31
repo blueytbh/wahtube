@@ -12,4 +12,7 @@ Me; For realizing that i typed 'true' instead of 'True' 80 times in a row (https
 this python script utilizes the yt-dlp module (https://github.com/yt-dlp/yt-dlp)
 
 # VLC & ffmpeg
-this python script requires the holy media player (https://www.videolan.org) and the goofy ass video and audio merger (https://github.com/BtbN/FFmpeg-Builds/releases)
+
+this python script requires the holy media player (https://www.videolan.org) 
+
+and the goofy ass video and audio merger (https://github.com/BtbN/FFmpeg-Builds/releases)
