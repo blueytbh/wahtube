@@ -5,7 +5,7 @@ Wyatt Geckle; Writing all VLC & video format related code, along with a lot of d
 
 Me; For helping debug and realizing that i typed 'true' instead of 'True' 80 times in a row (https://github.com/blueytbh)
 
-ChatGPT; For setting up a base script for this code
+ChatGPT; For setting up a base script for this code with yt-dlp stuff
 
 # yt-dlp
 
