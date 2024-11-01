@@ -1,4 +1,4 @@
-Find these 6 lines of code in wahhhhtube.py and delete the "_______________" with your VLC, ffmpeg, and video save path.
+FIND THESE 6 LINES OF CODE IN WAHHHHTUBE.PY AND DELETE THE "_______________" WITH YOUR VLC, FFMPEG, AND VIDEO SAVE PATH.
 
 # VIDEO SAVE PATH
 SAVE_PATH = r"C:\_______________"
