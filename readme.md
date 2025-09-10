@@ -1,5 +1,6 @@
 # welcome to wahtube
-credits: 
+
+# credits: 
 
 Wyatt Geckle; Writing all VLC & video format related code, a lot of yt-dlp stuff, along with a lot of debugging (https://github.com/WGeckle80)
 
@@ -20,3 +21,4 @@ this python script utilizes the yt-dlp module (https://github.com/yt-dlp/yt-dlp)
 this python script requires the holy media player probably made by jesus himself (https://www.videolan.org/vlc/)
 
 and the goofy ass video and audio merger (https://github.com/BtbN/FFmpeg-Builds/releases)
+
